@@ -22,6 +22,7 @@ library(glue)
 library(logr)
 source("R/functions.R")
 
+class_guide <- read.csv("classes.csv")
 
 tmp <- file.path("outputfiles", sprintf("scrape_oryx_%s.log", format(Sys.time(), "%Y%m%dT%H%M%S")))
 lf <- log_open(tmp)
@@ -61,12 +62,15 @@ for (a in seq_along(materiel)) {
   }
 }
 
+data <- merge(data, class_guide, by="system")
+
 readr::write_csv(data, file=glue::glue("outputfiles/data_{today}.csv"))
 
 data_wide <- data %>%
   dplyr::select(country, system, status) %>%
   dplyr::group_by(country, system, status) %>%
   dplyr::summarise(count = n())
+data_wide <- merge(data_wide, class_guide, by="system")
 
 readr::write_csv(data_wide, file=glue::glue("outputfiles/data_wide_{today}.csv"))
 

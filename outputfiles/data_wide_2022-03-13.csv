@@ -1,385 +1,389 @@
-country,system,status,count
-Russia,(Unknown) vehicle,captured,1
-Russia,(Unknown) vehicle,destroyed,3
-Russia,120mm 2B11/2S12,captured,4
-Russia,120mm 2B11/2S12A,captured,1
-Russia,120mm 2B16 Nona-K howitzer,captured,1
-Russia,120mm 2S9 Nona,abandoned,1
-Russia,120mm 2S9 Nona,captured,3
-Russia,120mm 2S9 Nona,destroyed,1
-Russia,122mm 2B17 Tornado-G,destroyed,1
-Russia,122mm 2S1 Gvozdika,abandoned,1
-Russia,122mm 2S1 Gvozdika,captured,1
-Russia,122mm 2S1 Gvozdika,destroyed,1
-Russia,122mm BM-21 'Grad',abandoned,2
-Russia,122mm BM-21 'Grad',captured,5
-Russia,122mm BM-21 'Grad',damaged,1
-Russia,122mm BM-21 'Grad',destroyed,5
-Russia,122mm D-30 howitzer 2A18,abandoned,3
-Russia,122mm D-30 howitzer 2A18,captured,2
-Russia,122mm D-30 howitzer 2A18,destroyed,1
-Russia,152mm 2A65 Msta-B howitzer,abandoned,1
-Russia,152mm 2A65 Msta-B howitzer,captured,1
-Russia,152mm 2A65 Msta-B howitzer,damaged,1
-Russia,152mm 2A65 Msta-B howitzer,destroyed,3
-Russia,152mm 2S19 Msta-S,abandoned,9
-Russia,152mm 2S19 Msta-S,captured,4
-Russia,152mm 2S19 Msta-S,destroyed,2
-Russia,152mm 2S3 Akatsiya,abandoned,2
-Russia,152mm 2S3 Akatsiya,captured,1
-Russia,152mm 2S3 Akatsiya,destroyed,2
-Russia,1V119 artillery battalion fire direction vehicle,captured,2
-Russia,1V119 artillery battalion fire direction vehicle,destroyed,1
-Russia,1V13 battery fire control center,abandoned,1
-Russia,1V13 battery fire control center,captured,1
-Russia,220mm BM-27 'Uragan',abandoned,1
-Russia,220mm BM-27 'Uragan',destroyed,1
-Russia,220mm TOS-1A,captured,1
-Russia,23mm ZU-23,captured,2
-Russia,2K22M1 Tunguska,abandoned,4
-Russia,2K22M1 Tunguska,damaged,1
-Russia,2S1 with ZU-23 AA gun,captured,1
-Russia,9М131F Metis-M1,captured,1
-Russia,9A310M1 TELAR (for Buk-M1-2),damaged,1
-Russia,9A310M1 TELAR (for Buk-M1-2),destroyed,1
-Russia,9A310M2 TELAR (for Buk-M2),destroyed,3
-Russia,9A330 Tor TLAR (for 9K330 Tor-M),abandoned,1
-Russia,9A330 Tor TLAR (for 9K330 Tor-M),captured,2
-Russia,9A331 TLAR (for 9K331 Tor-M1),abandoned,1
-Russia,9A331 TLAR (for 9K331 Tor-M1),captured,1
-Russia,9A331M TLAR (for 9K332 Tor-M2),captured,1
-Russia,9A331M TLAR (for 9K332 Tor-M2),destroyed,1
-Russia,9A39M1 TEL (for Buk-M1-2),destroyed,1
-Russia,9A39M2 TEL (for Buk-M2),destroyed,1
-Russia,9K33 Osa,abandoned,1
-Russia,9K33 Osa,captured,2
-Russia,9K33 Osa,damaged,1
-Russia,9K33 Osa,destroyed,2
-Russia,9K333 Verba,captured,1
-Russia,9K35 Strela-10,abandoned,3
-Russia,9K35 Strela-10,captured,1
-Russia,9K38 Igla,captured,2
-Russia,9M111 Fagot,captured,3
-Russia,9M113 Konkurs,captured,14
-Russia,9M113M Konkurs-M,captured,1
-Russia,9M114 Kokon,captured,1
-Russia,9P149 Shturm-S ATGM carrier,abandoned,1
-Russia,9P149 Shturm-S ATGM carrier,destroyed,1
-Russia,9S18М1(-3) (for Buk-M3),destroyed,1
-Russia,9T217 transloader (for 9K33 Osa),captured,1
-Russia,9T217 transloader (for 9K33 Osa),destroyed,1
-Russia,9T452 transporter-loader (for BM-27 'Uragan' MRL),destroyed,1
-Russia,An-26 transport aircraft,destroyed,1
-Russia,Barnaul-T 9С932-1 automated system for air defence units,abandoned,1
-Russia,Barnaul-T 9С932-1 automated system for air defence units,captured,2
-Russia,BAT-2 heavy engineering vehicle,destroyed,1
-Russia,BMD-2,abandoned,4
-Russia,BMD-2,captured,24
-Russia,BMD-2,damaged,2
-Russia,BMD-2,destroyed,14
-Russia,BMD-4M,abandoned,1
-Russia,BMD-4M,captured,6
-Russia,BMD-4M,destroyed,4
-Russia,BMP-1(P),captured,6
-Russia,BMP-1(P),destroyed,7
-Russia,BMP-1Khs,abandoned,1
-Russia,BMP-2,abandoned,8
-Russia,BMP-2,captured,16
-Russia,BMP-2,damaged,5
-Russia,BMP-2,destroyed,31
-Russia,BMP-2K,abandoned,1
-Russia,BMP-3,captured,8
-Russia,BMP-3,damaged,1
-Russia,BMP-3,destroyed,9
-Russia,BREM-1 armoured recovery vehicle,captured,1
-Russia,BREM-Ch ''BREM-4'' armoured recovery vehicle,captured,1
-Russia,BREM-K armoured recovery vehicle,captured,2
-Russia,BRM-1K,destroyed,3
-Russia,BTR-80,abandoned,3
-Russia,BTR-80,captured,16
-Russia,BTR-80,damaged,1
-Russia,BTR-80,destroyed,14
-Russia,BTR-82A,abandoned,4
-Russia,BTR-82A,captured,7
-Russia,BTR-82A,damaged,2
-Russia,BTR-82A,destroyed,12
-Russia,BTR-D,abandoned,8
-Russia,BTR-D,captured,10
-Russia,BTR-D,destroyed,5
-Russia,BTR-D APC with UR-67 mine clearing charge,captured,1
-Russia,BTR-MDM 'Rakushka',captured,4
-Russia,BTR-ZD 'Skrezhet',captured,1
-Russia,E95M target drone (likely used as unmanned bait in order for Ukraine to reveal the location of air defence systems),captured,1
-Russia,Eleron-3 reconnaissance UAV,captured,2
-Russia,Forpost reconnaissance UAV,destroyed,1
-Russia,Fuel train,destroyed,2
-Russia,GAZ-3308,abandoned,2
-Russia,GAZ-66,captured,3
-Russia,GAZ Sobol,abandoned,1
-Russia,GAZ Sobol,destroyed,1
-Russia,GAZ Tigr-M,abandoned,1
-Russia,GAZ Tigr-M,captured,12
-Russia,GAZ Tigr-M,damaged,1
-Russia,GAZ Tigr-M,destroyed,15
-Russia,GMZ-3 minelayer,captured,1
-Russia,IMR-2 combat engineering vehicle,abandoned,1
-Russia,IMR-2 combat engineering vehicle,destroyed,1
-Russia,Iveco LMV 'Rys',abandoned,1
-Russia,Iveco LMV 'Rys',captured,1
-Russia,Iveco LMV 'Rys',destroyed,4
-Russia,K-4386 Typhoon-VDV,destroyed,1
-Russia,K-53949 'Linza',captured,1
-Russia,K-53949 Typhoon-K,abandoned,1
-Russia,K-53949 Typhoon-K,captured,1
-Russia,Ka-52 'Alligator' attack helicopter,damaged,2
-Russia,Ka-52 'Alligator' attack helicopter,destroyed,2
-Russia,KamAZ-5350 with crane,destroyed,1
-Russia,KamAZ-5350 with EOV-3523 excavator,captured,3
-Russia,KamAZ-5350 with EOV-3523 excavator,destroyed,2
-Russia,KamAZ-5350 with KS-45719-7M crane,destroyed,1
-Russia,KamAZ-6350 8x8 artillery tractor,damaged,2
-Russia,KamAZ-6350 8x8 artillery tractor,destroyed,2
-Russia,KamAZ-63968 'Typhoon',captured,2
-Russia,KamAZ-63968 'Typhoon',destroyed,1
-Russia,KamAZ 4x4,abandoned,1
-Russia,KamAZ 4x4,captured,1
-Russia,KamAZ 6x6,abandoned,14
-Russia,KamAZ 6x6,captured,46
-Russia,KamAZ 6x6,damaged,6
-Russia,KamAZ 6x6,destroyed,64
-Russia,KamAZ Avtozaks,captured,1
-Russia,KamAZ Avtozaks,destroyed,2
-Russia,KamAZ with armoured cabin,abandoned,1
-Russia,KamAZ with armoured cabin,destroyed,1
-Russia,Mi-24V/P attack helicopter,destroyed,2
-Russia,Mi-28 attack helicopter,destroyed,1
-Russia,Mi-35M attack helicopter,destroyed,2
-Russia,Mi-8 transport helicopter,destroyed,3
-Russia,MP-2IM signals vehicle,abandoned,1
-Russia,MT-LB,abandoned,12
-Russia,MT-LB,captured,36
-Russia,MT-LB,destroyed,12
-Russia,MT-LB Ambulance,destroyed,1
-Russia,MT-LB with ZU-23 AA gun,destroyed,2
-Russia,MT-LBM 6MB,abandoned,1
-Russia,MT-LBu,abandoned,3
-Russia,MT-LBu,captured,2
-Russia,MT-LBu,destroyed,3
-Russia,Orlan-10 reconnaissance UAV,destroyed,1
-Russia,Pantsir-S1,abandoned,1
-Russia,Pantsir-S1,captured,3
-Russia,Pantsir-S1,destroyed,1
-Russia,PMP floating bridge,destroyed,2
-Russia,PTS-3 tracked amphibious transport,abandoned,2
-Russia,R-149MA1 unified command and staff vehicle,abandoned,2
-Russia,R-149MA1 unified command and staff vehicle,captured,3
-Russia,R-149MA1 unified command and staff vehicle,damaged,1
-Russia,R-149MA1 unified command and staff vehicle,destroyed,1
-Russia,R-149MA3 command and staff vehicle,captured,1
-Russia,R-149MA3 command and staff vehicle,damaged,1
-Russia,R-166-0.5 signals vehicle,abandoned,1
-Russia,R-166-0.5 signals vehicle,destroyed,1
-Russia,R-330BMV Borisoglebsk-2B,captured,1
-Russia,R-330BMV Borisoglebsk-2B,damaged,1
-Russia,R-419L1 communications station,abandoned,1
-Russia,REM-KL armoured recovery vehicle,captured,1
-Russia,Su-25 close air support aircraft,destroyed,5
-Russia,Su-30SM multirole aircraft,destroyed,2
-Russia,Su-34 strike aircraft,destroyed,4
-Russia,T-64BV,captured,2
-Russia,T-64BV,damaged,1
-Russia,T-72A,captured,5
-Russia,T-72A,destroyed,2
-Russia,T-72AV,destroyed,2
-Russia,T-72B,abandoned,5
-Russia,T-72B,captured,19
-Russia,T-72B,damaged,3
-Russia,T-72B,destroyed,8
-Russia,T-72B Obr. 1989,abandoned,2
-Russia,T-72B Obr. 1989,captured,2
-Russia,T-72B Obr. 1989,destroyed,1
-Russia,T-72B3,abandoned,4
-Russia,T-72B3,captured,3
-Russia,T-72B3,damaged,1
-Russia,T-72B3,destroyed,5
-Russia,T-72B3 Obr. 2016,abandoned,5
-Russia,T-72B3 Obr. 2016,captured,23
-Russia,T-72B3 Obr. 2016,destroyed,23
-Russia,T-80BV,abandoned,2
-Russia,T-80BV,captured,3
-Russia,T-80BV,destroyed,1
-Russia,T-80BVM,abandoned,1
-Russia,T-80BVM,captured,8
-Russia,T-80BVM,destroyed,3
-Russia,T-80U,abandoned,14
-Russia,T-80U,captured,17
-Russia,T-80U,damaged,1
-Russia,T-80U,destroyed,5
-Russia,T-80UK,abandoned,1
-Russia,T-90A,abandoned,4
-Russia,T-90A,captured,5
-Russia,T-90A,destroyed,6
-Russia,TMM-3 bridge layer,abandoned,2
-Russia,TMM-3 bridge layer,captured,6
-Russia,TMM-3 bridge layer,damaged,1
-Russia,TMM-3 bridge layer,destroyed,1
-Russia,TZM-T reloader vehicle (for TOS-1A),captured,2
-Russia,UAZ-23632,captured,2
-Russia,UAZ-469,captured,1
-Russia,UAZ-469,destroyed,1
-Russia,UAZ Patriot,abandoned,1
-Russia,Unknown AFV,abandoned,1
-Russia,Unknown AFV,captured,1
-Russia,Unknown AFV,destroyed,10
-Russia,Unknown BTR-D/BMD-2,destroyed,9
-Russia,Unknown communications station,destroyed,1
-Russia,Unknown communications station based on the KamAZ 6x6,damaged,1
-Russia,Unknown Mi-24/35 attack helicopter,damaged,1
-Russia,Unknown Mi-24/35 attack helicopter,destroyed,2
-Russia,Unknown tank,abandoned,1
-Russia,Unknown tank,damaged,1
-Russia,Unknown tank,destroyed,6
-Russia,Unknown truck,abandoned,1
-Russia,Unknown truck,captured,5
-Russia,Unknown truck,damaged,3
-Russia,Unknown truck,destroyed,16
-Russia,UR-77 'Meterorit' mine clearing vehicle,abandoned,1
-Russia,UR-77 'Meterorit' mine clearing vehicle,captured,2
-Russia,UR-77 'Meterorit' mine clearing vehicle,destroyed,1
-Russia,Ural-4320,abandoned,9
-Russia,Ural-4320,captured,45
-Russia,Ural-4320,damaged,3
-Russia,Ural-4320,destroyed,35
-Russia,Ural-4320 Wrecker,damaged,1
-Russia,Ural-43206,abandoned,1
-Russia,Ural-43206,captured,9
-Russia,Ural-43206,destroyed,3
-Russia,Ural-542301 tank transporter,abandoned,1
-Russia,Ural Federal,abandoned,3
-Russia,Ural Federal,destroyed,1
-Russia,Vityaz DT-30 articulated tracked carrier,abandoned,1
-Russia,Vityaz DT-30 articulated tracked carrier,destroyed,1
-Russia,ZALA Aero KUB-BLA loitering munition ,destroyed,1
-Russia,ZiL-131,abandoned,2
-Russia,ZiL-131,destroyed,2
-Ukraine,100mm MT-12 anti-tank gun,abandoned,1
-Ukraine,100mm MT-12 anti-tank gun,captured,2
-Ukraine,122mm 2S1 Gvozdika,abandoned,1
-Ukraine,122mm 2S1 Gvozdika,captured,3
-Ukraine,122mm 2S1 Gvozdika,destroyed,4
-Ukraine,122mm D-30 howitzer,destroyed,1
-Ukraine,152mm 2A36 Giatsint-B field-gun,abandoned,1
-Ukraine,152mm 2A65 Msta-B howitzer,abandoned,2
-Ukraine,1L22 'Parol',damaged,1
-Ukraine,1L22 'Parol',destroyed,1
-Ukraine,1V18 'Klyon-1' artillery command and forward observer vehicle,captured,1
-Ukraine,220mm BM-27 'Uragan',captured,2
-Ukraine,23mm ZU-23,captured,1
-Ukraine,5P85D (launcher for S-300PS),destroyed,1
-Ukraine,5P85S (launcher for S-300PS),destroyed,1
-Ukraine,9K310 Igla-1,captured,4
-Ukraine,9K33 Osa,destroyed,5
-Ukraine,9K35 Strela-10,destroyed,1
-Ukraine,9K38 Igla,captured,2
-Ukraine,9M111 Fagot,captured,2
-Ukraine,9M113 Konkurs,captured,2
-Ukraine,9P148 Konkurs ATGM carrier,captured,1
-Ukraine,9P148 Konkurs ATGM carrier,destroyed,2
-Ukraine,An-225,destroyed,1
-Ukraine,An-26 transport aircraft,destroyed,1
-Ukraine,AT105A 'Saxon',captured,1
-Ukraine,BAT-2 heavy engineering vehicle,captured,1
-Ukraine,BMP-1 BM,destroyed,1
-Ukraine,BMP-1(P),abandoned,4
-Ukraine,BMP-1(P),captured,2
-Ukraine,BMP-1(P),damaged,1
-Ukraine,BMP-1(P),destroyed,4
-Ukraine,BMP-1Khs,destroyed,1
-Ukraine,BMP-2,abandoned,1
-Ukraine,BMP-2,captured,1
-Ukraine,BRDM-2,abandoned,8
-Ukraine,BRDM-2,captured,10
-Ukraine,BRDM-2,destroyed,4
-Ukraine,BREM-1 ARV,captured,1
-Ukraine,BRM-1K,captured,2
-Ukraine,BRM-1K,damaged,1
-Ukraine,BSEM-4K,destroyed,1
-Ukraine,BTR-3,captured,2
-Ukraine,BTR-3,destroyed,1
-Ukraine,BTR-4,abandoned,2
-Ukraine,BTR-4,captured,10
-Ukraine,BTR-4,destroyed,7
-Ukraine,BTR-60,captured,4
-Ukraine,BTR-70,abandoned,1
-Ukraine,BTR-70,captured,4
-Ukraine,BTR-80,captured,4
-Ukraine,BTR-80,destroyed,4
-Ukraine,Buk-M1,destroyed,1
-Ukraine,FGM-148 Javelin,captured,3
-Ukraine,GAZ-66,abandoned,1
-Ukraine,GAZ-66,captured,7
-Ukraine,GAZ-66,damaged,3
-Ukraine,GAZ-66,destroyed,4
-Ukraine,HMMWV,destroyed,1
-Ukraine,Island-class patrol boat P190 Slovyansk,NA,1
-Ukraine,KamAZ,destroyed,1
-Ukraine,Kozak-2,abandoned,1
-Ukraine,Kozak-2,captured,2
-Ukraine,Kozak-2,damaged,1
-Ukraine,Kozak-2,destroyed,1
-Ukraine,KrAZ-5233,captured,1
-Ukraine,KrAZ-6322,captured,7
-Ukraine,KrAZ-6322,destroyed,1
-Ukraine,Krivak III class frigate 'Hetman Sahaydachniy',NA,1
-Ukraine,Leleka-100 reconnaissance UAV,captured,2
-Ukraine,MAZ,abandoned,2
-Ukraine,MAZ,captured,1
-Ukraine,MAZ,damaged,1
-Ukraine,MAZ,destroyed,7
-Ukraine,MAZ-537,captured,1
-Ukraine,MAZ-537,destroyed,1
-Ukraine,MBT LAW 'NLAW',captured,7
-Ukraine,Mi-24 attack helicopter,destroyed,1
-Ukraine,MiG-29 fighter aircraft,destroyed,1
-Ukraine,MT-LB,abandoned,1
-Ukraine,MT-LB,captured,1
-Ukraine,MT-LB,destroyed,2
-Ukraine,MT-LB Ambulance,abandoned,1
-Ukraine,MT-LB with ZU-23 AA gun,captured,1
-Ukraine,MT-LBu,captured,1
-Ukraine,MT-LBu,damaged,1
-Ukraine,Novator,captured,1
-Ukraine,Novator,damaged,1
-Ukraine,P-14 'Tall King',damaged,1
-Ukraine,P-35/37 'Bar Lock',destroyed,1
-Ukraine,PRV-13 'Odd Pair',destroyed,1
-Ukraine,RK-3 Corsar,captured,2
-Ukraine,SNAR-10 battlefield surveillance radar,captured,1
-Ukraine,Su-25 attack aircraft,destroyed,3
-Ukraine,Su-27 fighter aircraft,destroyed,3
-Ukraine,T-64BV,abandoned,6
-Ukraine,T-64BV,captured,20
-Ukraine,T-64BV,damaged,2
-Ukraine,T-64BV,destroyed,18
-Ukraine,T-80BV,abandoned,1
-Ukraine,T-80BV,captured,1
-Ukraine,T-80BV,damaged,1
-Ukraine,Tu-141 reconnaissance UAV,destroyed,2
-Ukraine,UAZ-452,captured,1
-Ukraine,UAZ-469,captured,1
-Ukraine,Unknown AFV,destroyed,1
-Ukraine,Unknown BTR,abandoned,1
-Ukraine,Unknown truck,abandoned,1
-Ukraine,Unknown truck,captured,1
-Ukraine,Unknown truck,damaged,1
-Ukraine,Unknown truck,destroyed,4
-Ukraine,Ural-375D,captured,1
-Ukraine,Ural-4320,captured,1
-Ukraine,Ural-4320,destroyed,6
-Ukraine,Varta,captured,9
-Ukraine,Varta,destroyed,1
-Ukraine,Vepr MRAP,captured,1
-Ukraine,ZiL-131,abandoned,2
-Ukraine,ZiL-131,captured,10
-Ukraine,ZiL-131,destroyed,5
-Ukraine,ZSU-23-4 'Shilka',captured,1
+system,country,status,count,class
+(Unknown) vehicle,Russia,captured,1,"Trucks, Vehicles, and Jeeps"
+(Unknown) vehicle,Russia,destroyed,4,"Trucks, Vehicles, and Jeeps"
+100mm MT-12 anti-tank gun,Ukraine,abandoned,1,Towed Artillery
+100mm MT-12 anti-tank gun,Ukraine,captured,2,Towed Artillery
+120mm 2B11/2S12,Russia,captured,4,Heavy Mortars
+120mm 2B11/2S12A,Russia,captured,1,Heavy Mortars
+120mm 2B16 Nona-K howitzer,Russia,captured,1,Towed Artillery
+120mm 2S9 Nona,Russia,abandoned,1,Self-Propelled Artillery
+120mm 2S9 Nona,Russia,captured,3,Self-Propelled Artillery
+120mm 2S9 Nona,Russia,destroyed,1,Self-Propelled Artillery
+122mm 2B17 Tornado-G,Russia,destroyed,1,Multiple Rocket Launchers
+122mm 2S1 Gvozdika,Russia,abandoned,1,Self-Propelled Artillery
+122mm 2S1 Gvozdika,Russia,captured,1,Self-Propelled Artillery
+122mm 2S1 Gvozdika,Russia,destroyed,1,Self-Propelled Artillery
+122mm 2S1 Gvozdika,Ukraine,captured,3,Self-Propelled Artillery
+122mm 2S1 Gvozdika,Ukraine,destroyed,4,Self-Propelled Artillery
+122mm 2S1 Gvozdika,Ukraine,abandoned,1,Self-Propelled Artillery
+122mm BM-21 'Grad',Russia,damaged,1,Multiple Rocket Launchers
+122mm BM-21 'Grad',Russia,destroyed,5,Multiple Rocket Launchers
+122mm BM-21 'Grad',Russia,abandoned,2,Multiple Rocket Launchers
+122mm BM-21 'Grad',Russia,captured,5,Multiple Rocket Launchers
+122mm D-30 howitzer,Ukraine,destroyed,1,Towed Artillery
+122mm D-30 howitzer 2A18,Russia,abandoned,3,Towed Artillery
+122mm D-30 howitzer 2A18,Russia,captured,2,Towed Artillery
+122mm D-30 howitzer 2A18,Russia,destroyed,1,Towed Artillery
+152mm 2A36 Giatsint-B field-gun,Ukraine,abandoned,1,Towed Artillery
+152mm 2A65 Msta-B howitzer,Russia,abandoned,1,Towed Artillery
+152mm 2A65 Msta-B howitzer,Russia,captured,1,Towed Artillery
+152mm 2A65 Msta-B howitzer,Russia,damaged,1,Towed Artillery
+152mm 2A65 Msta-B howitzer,Russia,destroyed,3,Towed Artillery
+152mm 2A65 Msta-B howitzer,Ukraine,abandoned,2,Towed Artillery
+152mm 2S19 Msta-S,Russia,abandoned,9,Self-Propelled Artillery
+152mm 2S19 Msta-S,Russia,destroyed,3,Self-Propelled Artillery
+152mm 2S19 Msta-S,Russia,captured,4,Self-Propelled Artillery
+152mm 2S3 Akatsiya,Russia,destroyed,2,Self-Propelled Artillery
+152mm 2S3 Akatsiya,Russia,captured,1,Self-Propelled Artillery
+152mm 2S3 Akatsiya,Russia,abandoned,2,Self-Propelled Artillery
+1L22 'Parol',Ukraine,damaged,1,Radars
+1L22 'Parol',Ukraine,destroyed,1,Radars
+1V119 artillery battalion fire direction vehicle,Russia,destroyed,1,Armoured Fighting Vehicles
+1V119 artillery battalion fire direction vehicle,Russia,captured,2,Armoured Fighting Vehicles
+1V13 battery fire control center,Russia,captured,1,Armoured Fighting Vehicles
+1V13 battery fire control center,Russia,abandoned,1,Armoured Fighting Vehicles
+1V18 'Klyon-1' artillery command and forward observer vehicle,Ukraine,captured,1,Armoured Fighting Vehicles
+220mm BM-27 'Uragan',Russia,destroyed,1,Multiple Rocket Launchers
+220mm BM-27 'Uragan',Russia,abandoned,1,Multiple Rocket Launchers
+220mm BM-27 'Uragan',Ukraine,captured,2,Multiple Rocket Launchers
+220mm TOS-1A,Russia,captured,1,Multiple Rocket Launchers
+23mm ZU-23,Ukraine,captured,1,Anti-Aircraft Guns
+23mm ZU-23,Russia,captured,2,Anti-Aircraft Guns
+2K22M1 Tunguska,Russia,damaged,1,Self-Propelled Anti-Aircraft Guns
+2K22M1 Tunguska,Russia,abandoned,4,Self-Propelled Anti-Aircraft Guns
+2S1 with ZU-23 AA gun,Russia,captured,1,Armoured Fighting Vehicles
+5P85D (launcher for S-300PS),Ukraine,destroyed,1,Surface-To-Air Missile Systems
+5P85S (launcher for S-300PS),Ukraine,destroyed,1,Surface-To-Air Missile Systems
+9A310M1 TELAR (for Buk-M1-2),Russia,destroyed,1,Surface-To-Air Missile Systems
+9A310M1 TELAR (for Buk-M1-2),Russia,damaged,1,Surface-To-Air Missile Systems
+9A310M2 TELAR (for Buk-M2),Russia,destroyed,3,Surface-To-Air Missile Systems
+9A330 Tor TLAR (for 9K330 Tor-M),Russia,abandoned,1,Surface-To-Air Missile Systems
+9A330 Tor TLAR (for 9K330 Tor-M),Russia,captured,2,Surface-To-Air Missile Systems
+9A331 TLAR (for 9K331 Tor-M1),Russia,captured,1,Surface-To-Air Missile Systems
+9A331 TLAR (for 9K331 Tor-M1),Russia,abandoned,1,Surface-To-Air Missile Systems
+9A331M TLAR (for 9K332 Tor-M2),Russia,captured,1,Surface-To-Air Missile Systems
+9A331M TLAR (for 9K332 Tor-M2),Russia,destroyed,1,Surface-To-Air Missile Systems
+9A39M1 TEL (for Buk-M1-2),Russia,destroyed,1,Surface-To-Air Missile Systems
+9A39M2 TEL (for Buk-M2),Russia,destroyed,1,Surface-To-Air Missile Systems
+9K310 Igla-1,Ukraine,captured,4,Man-Portable Air Defense Systems
+9K33 Osa,Russia,abandoned,1,"Trucks, Vehicles, and Jeeps"
+9K33 Osa,Russia,destroyed,2,"Trucks, Vehicles, and Jeeps"
+9K33 Osa,Ukraine,destroyed,5,"Trucks, Vehicles, and Jeeps"
+9K33 Osa,Russia,damaged,1,"Trucks, Vehicles, and Jeeps"
+9K33 Osa,Russia,captured,2,"Trucks, Vehicles, and Jeeps"
+9K333 Verba,Russia,captured,1,Man-Portable Air Defense Systems
+9K35 Strela-10,Russia,abandoned,3,Surface-To-Air Missile Systems
+9K35 Strela-10,Ukraine,destroyed,1,Surface-To-Air Missile Systems
+9K35 Strela-10,Russia,captured,1,Surface-To-Air Missile Systems
+9K38 Igla,Ukraine,captured,2,Man-Portable Air Defense Systems
+9K38 Igla,Russia,captured,3,Man-Portable Air Defense Systems
+9M111 Fagot,Russia,captured,3,Anti-Tank Guided Missiles
+9M111 Fagot,Ukraine,captured,2,Anti-Tank Guided Missiles
+9M113 Konkurs,Russia,captured,14,Anti-Tank Guided Missiles
+9M113 Konkurs,Ukraine,captured,2,Anti-Tank Guided Missiles
+9M113M Konkurs-M,Russia,captured,1,Anti-Tank Guided Missiles
+9M114 Kokon,Russia,captured,1,Anti-Tank Guided Missiles
+9P148 Konkurs ATGM carrier,Ukraine,destroyed,2,Armoured Fighting Vehicles
+9P148 Konkurs ATGM carrier,Ukraine,captured,1,Armoured Fighting Vehicles
+9P149 Shturm-S ATGM carrier,Russia,destroyed,1,Armoured Fighting Vehicles
+9P149 Shturm-S ATGM carrier,Russia,abandoned,1,Armoured Fighting Vehicles
+9S18М1(-3) (for Buk-M3),Russia,destroyed,1,Radars
+9T217 transloader (for 9K33 Osa),Russia,destroyed,1,"Trucks, Vehicles, and Jeeps"
+9T217 transloader (for 9K33 Osa),Russia,captured,1,"Trucks, Vehicles, and Jeeps"
+9T452 transporter-loader (for BM-27 'Uragan' MRL),Russia,destroyed,1,"Trucks, Vehicles, and Jeeps"
+9T452 transporter-loader (for BM-27 'Uragan' MRL),Ukraine,destroyed,1,"Trucks, Vehicles, and Jeeps"
+9М131F Metis-M1,Russia,captured,1,Anti-Tank Guided Missiles
+An-225,Ukraine,destroyed,1,Aircraft
+An-26 transport aircraft,Ukraine,destroyed,1,Aircraft
+An-26 transport aircraft,Russia,destroyed,1,Aircraft
+Armoured SUV,Russia,damaged,1,"Trucks, Vehicles, and Jeeps"
+AT105A 'Saxon',Ukraine,captured,1,Armoured Personnel Carriers
+Barnaul-T 9С932-1 automated system for air defence units,Russia,captured,2,Communications Stations
+Barnaul-T 9С932-1 automated system for air defence units,Russia,abandoned,1,Communications Stations
+BAT-2 heavy engineering vehicle,Ukraine,captured,1,Engineering Vehicles
+BAT-2 heavy engineering vehicle,Russia,destroyed,1,Engineering Vehicles
+BMD-4M,Russia,destroyed,4,Infantry Fighting Vehicles
+BMD-4M,Russia,captured,7,Infantry Fighting Vehicles
+BMD-4M,Russia,abandoned,1,Infantry Fighting Vehicles
+BMP-1 BM,Ukraine,destroyed,1,Infantry Fighting Vehicles
+BMP-1(P),Ukraine,destroyed,5,Infantry Fighting Vehicles
+BMP-1(P),Ukraine,damaged,1,Infantry Fighting Vehicles
+BMP-1(P),Russia,captured,6,Infantry Fighting Vehicles
+BMP-1(P),Russia,destroyed,7,Infantry Fighting Vehicles
+BMP-1(P),Ukraine,abandoned,4,Infantry Fighting Vehicles
+BMP-1(P),Ukraine,captured,2,Infantry Fighting Vehicles
+BMP-1Khs,Ukraine,destroyed,1,Armoured Fighting Vehicles
+BMP-1Khs,Russia,abandoned,1,Armoured Fighting Vehicles
+BMP-2,Ukraine,destroyed,1,Infantry Fighting Vehicles
+BMP-2,Ukraine,captured,1,Infantry Fighting Vehicles
+BMP-2,Ukraine,abandoned,1,Infantry Fighting Vehicles
+BMP-2,Russia,damaged,5,Infantry Fighting Vehicles
+BMP-2,Russia,abandoned,8,Infantry Fighting Vehicles
+BMP-2,Russia,destroyed,32,Infantry Fighting Vehicles
+BMP-2,Russia,captured,17,Infantry Fighting Vehicles
+BMP-2K,Russia,abandoned,1,Infantry Fighting Vehicles
+BMP-3,Russia,damaged,1,Infantry Fighting Vehicles
+BMP-3,Russia,captured,8,Infantry Fighting Vehicles
+BMP-3,Russia,destroyed,10,Infantry Fighting Vehicles
+BRDM-2,Ukraine,captured,10,Armoured Fighting Vehicles
+BRDM-2,Ukraine,destroyed,4,Armoured Fighting Vehicles
+BRDM-2,Ukraine,abandoned,8,Armoured Fighting Vehicles
+BREM-1 armoured recovery vehicle,Russia,captured,1,Engineering Vehicles
+BREM-1 ARV,Ukraine,captured,1,Armoured Fighting Vehicles
+BREM-Ch ''BREM-4'' armoured recovery vehicle,Russia,captured,1,Engineering Vehicles
+BREM-K armoured recovery vehicle,Russia,captured,2,Engineering Vehicles
+BRM-1K,Ukraine,captured,2,Armoured Fighting Vehicles
+BRM-1K,Russia,destroyed,3,Armoured Fighting Vehicles
+BRM-1K,Ukraine,damaged,1,Armoured Fighting Vehicles
+BSEM-4K,Ukraine,destroyed,1,Armoured Fighting Vehicles
+BTR-3,Ukraine,destroyed,1,Infantry Fighting Vehicles
+BTR-3,Ukraine,captured,2,Infantry Fighting Vehicles
+BTR-4,Ukraine,captured,10,Infantry Fighting Vehicles
+BTR-4,Ukraine,destroyed,7,Infantry Fighting Vehicles
+BTR-4,Ukraine,abandoned,2,Infantry Fighting Vehicles
+BTR-60,Ukraine,captured,4,Armoured Personnel Carriers
+BTR-70,Ukraine,captured,4,Armoured Personnel Carriers
+BTR-70,Ukraine,abandoned,1,Armoured Personnel Carriers
+BTR-80,Russia,damaged,1,Armoured Personnel Carriers
+BTR-80,Ukraine,destroyed,4,Armoured Personnel Carriers
+BTR-80,Ukraine,captured,4,Armoured Personnel Carriers
+BTR-80,Russia,captured,16,Armoured Personnel Carriers
+BTR-80,Russia,destroyed,14,Armoured Personnel Carriers
+BTR-80,Russia,abandoned,3,Armoured Personnel Carriers
+BTR-82A,Russia,damaged,3,Infantry Fighting Vehicles
+BTR-82A,Russia,abandoned,4,Infantry Fighting Vehicles
+BTR-82A,Russia,captured,7,Infantry Fighting Vehicles
+BTR-82A,Russia,destroyed,12,Infantry Fighting Vehicles
+BTR-D,Russia,abandoned,8,Armoured Personnel Carriers
+BTR-D,Russia,captured,11,Armoured Personnel Carriers
+BTR-D,Russia,destroyed,5,Armoured Personnel Carriers
+BTR-D APC with UR-67 mine clearing charge,Russia,captured,1,Engineering Vehicles
+BTR-MDM 'Rakushka',Russia,captured,4,Armoured Personnel Carriers
+BTR-ZD 'Skrezhet',Russia,captured,1,Self-Propelled Anti-Aircraft Guns
+Buk-M1,Ukraine,destroyed,1,Surface-To-Air Missile Systems
+E95M target drone (likely used as unmanned bait in order for Ukraine to reveal the location of air defence systems),Russia,captured,1,Unmanned Aerial Vehicles
+Eleron-3 reconnaissance UAV,Russia,captured,2,Unmanned Aerial Vehicles
+FGM-148 Javelin,Ukraine,captured,3,Anti-Tank Guided Missiles
+Forpost reconnaissance UAV,Russia,destroyed,1,Unmanned Aerial Vehicles
+Fuel train,Russia,destroyed,2,Logistics Trains
+GAZ Sobol,Russia,destroyed,1,"Trucks, Vehicles, and Jeeps"
+GAZ Sobol,Russia,abandoned,1,"Trucks, Vehicles, and Jeeps"
+GAZ Tigr-M,Russia,destroyed,16,Infantry Mobility Vehicles
+GAZ Tigr-M,Russia,abandoned,1,Infantry Mobility Vehicles
+GAZ Tigr-M,Russia,damaged,1,Infantry Mobility Vehicles
+GAZ Tigr-M,Russia,captured,12,Infantry Mobility Vehicles
+GAZ-3308,Russia,abandoned,2,"Trucks, Vehicles, and Jeeps"
+GAZ-66,Ukraine,damaged,3,"Trucks, Vehicles, and Jeeps"
+GAZ-66,Russia,abandoned,1,"Trucks, Vehicles, and Jeeps"
+GAZ-66,Ukraine,captured,7,"Trucks, Vehicles, and Jeeps"
+GAZ-66,Ukraine,destroyed,6,"Trucks, Vehicles, and Jeeps"
+GAZ-66,Russia,captured,3,"Trucks, Vehicles, and Jeeps"
+GAZ-66,Ukraine,abandoned,1,"Trucks, Vehicles, and Jeeps"
+GMZ-3 minelayer,Russia,captured,1,Engineering Vehicles
+HMMWV,Ukraine,destroyed,1,Infantry Mobility Vehicles
+IMR-2 combat engineering vehicle,Russia,destroyed,1,Engineering Vehicles
+IMR-2 combat engineering vehicle,Russia,abandoned,1,Engineering Vehicles
+Island-class patrol boat P190 Slovyansk,Ukraine,NA,1,Naval Ships
+Iveco LMV 'Rys',Russia,destroyed,4,Infantry Mobility Vehicles
+Iveco LMV 'Rys',Russia,captured,1,Infantry Mobility Vehicles
+Iveco LMV 'Rys',Russia,abandoned,1,Infantry Mobility Vehicles
+K-4386 Typhoon-VDV,Russia,destroyed,1,Mine-Resistant Ambush Protected (MRAP) Vehicles
+K-53949 'Linza',Russia,captured,1,Mine-Resistant Ambush Protected (MRAP) Vehicles
+K-53949 Typhoon-K,Russia,captured,2,Mine-Resistant Ambush Protected (MRAP) Vehicles
+K-53949 Typhoon-K,Russia,abandoned,1,Mine-Resistant Ambush Protected (MRAP) Vehicles
+Ka-52 'Alligator' attack helicopter,Russia,damaged,2,Helicopters
+Ka-52 'Alligator' attack helicopter,Russia,destroyed,2,Helicopters
+KamAZ,Ukraine,destroyed,1,"Trucks, Vehicles, and Jeeps"
+KamAZ 4x4,Russia,captured,1,"Trucks, Vehicles, and Jeeps"
+KamAZ 4x4,Russia,abandoned,1,"Trucks, Vehicles, and Jeeps"
+KamAZ 6x6,Russia,abandoned,19,Communications Stations
+KamAZ 6x6,Russia,destroyed,68,Communications Stations
+KamAZ 6x6,Russia,captured,50,Communications Stations
+KamAZ 6x6,Russia,damaged,7,Communications Stations
+KamAZ Avtozaks,Russia,captured,1,"Trucks, Vehicles, and Jeeps"
+KamAZ Avtozaks,Russia,abandoned,1,"Trucks, Vehicles, and Jeeps"
+KamAZ Avtozaks,Russia,destroyed,2,"Trucks, Vehicles, and Jeeps"
+KamAZ with armoured cabin,Russia,abandoned,2,"Trucks, Vehicles, and Jeeps"
+KamAZ with armoured cabin,Russia,destroyed,1,"Trucks, Vehicles, and Jeeps"
+KamAZ-5350 with crane,Russia,destroyed,1,Engineering Vehicles
+KamAZ-5350 with EOV-3523 excavator,Russia,destroyed,2,Engineering Vehicles
+KamAZ-5350 with EOV-3523 excavator,Russia,captured,3,Engineering Vehicles
+KamAZ-5350 with KS-45719-7M crane,Russia,destroyed,1,Engineering Vehicles
+KamAZ-6350 8x8 artillery tractor,Russia,damaged,2,"Trucks, Vehicles, and Jeeps"
+KamAZ-6350 8x8 artillery tractor,Russia,destroyed,2,"Trucks, Vehicles, and Jeeps"
+KamAZ-63968 'Typhoon',Russia,captured,2,Mine-Resistant Ambush Protected (MRAP) Vehicles
+KamAZ-63968 'Typhoon',Russia,destroyed,2,Mine-Resistant Ambush Protected (MRAP) Vehicles
+Kozak-2,Ukraine,destroyed,1,Infantry Mobility Vehicles
+Kozak-2,Ukraine,captured,2,Infantry Mobility Vehicles
+Kozak-2,Ukraine,damaged,1,Infantry Mobility Vehicles
+Kozak-2,Ukraine,abandoned,1,Infantry Mobility Vehicles
+KrAZ-5233,Ukraine,captured,1,"Trucks, Vehicles, and Jeeps"
+KrAZ-6322,Ukraine,captured,7,"Trucks, Vehicles, and Jeeps"
+KrAZ-6322,Ukraine,damaged,1,"Trucks, Vehicles, and Jeeps"
+KrAZ-6322,Ukraine,destroyed,1,"Trucks, Vehicles, and Jeeps"
+Krivak III class frigate 'Hetman Sahaydachniy',Ukraine,NA,1,Naval Ships
+Leleka-100 reconnaissance UAV,Ukraine,captured,2,Unmanned Aerial Vehicles
+MAZ,Ukraine,destroyed,7,"Trucks, Vehicles, and Jeeps"
+MAZ,Ukraine,captured,1,"Trucks, Vehicles, and Jeeps"
+MAZ,Ukraine,abandoned,2,"Trucks, Vehicles, and Jeeps"
+MAZ,Ukraine,damaged,1,"Trucks, Vehicles, and Jeeps"
+MAZ-537,Ukraine,destroyed,1,"Trucks, Vehicles, and Jeeps"
+MAZ-537,Ukraine,captured,1,"Trucks, Vehicles, and Jeeps"
+MBT LAW 'NLAW',Ukraine,captured,7,Anti-Tank Guided Missiles
+Mi-24 attack helicopter,Ukraine,destroyed,1,Helicopters
+Mi-24V/P attack helicopter,Russia,destroyed,2,Helicopters
+Mi-28 attack helicopter,Russia,destroyed,1,Helicopters
+Mi-35M attack helicopter,Russia,destroyed,2,Helicopters
+Mi-8 transport helicopter,Russia,destroyed,3,Helicopters
+MiG-29 fighter aircraft,Ukraine,destroyed,1,Aircraft
+MP-2IM signals vehicle,Russia,abandoned,1,Communications Stations
+MT-LB,Ukraine,destroyed,2,Armoured Fighting Vehicles
+MT-LB,Russia,destroyed,14,Armoured Fighting Vehicles
+MT-LB,Russia,abandoned,13,Armoured Fighting Vehicles
+MT-LB,Ukraine,captured,1,Armoured Fighting Vehicles
+MT-LB,Russia,captured,39,Armoured Fighting Vehicles
+MT-LB,Ukraine,abandoned,1,Armoured Fighting Vehicles
+MT-LB Ambulance,Ukraine,abandoned,1,Armoured Fighting Vehicles
+MT-LB Ambulance,Russia,destroyed,1,Armoured Fighting Vehicles
+MT-LB with ZU-23 AA gun,Ukraine,captured,1,Armoured Fighting Vehicles
+MT-LB with ZU-23 AA gun,Russia,destroyed,2,Armoured Fighting Vehicles
+MT-LBM 6MB,Russia,abandoned,1,Armoured Fighting Vehicles
+MT-LBu,Russia,destroyed,3,Armoured Fighting Vehicles
+MT-LBu,Russia,captured,2,Armoured Fighting Vehicles
+MT-LBu,Ukraine,captured,1,Armoured Fighting Vehicles
+MT-LBu,Ukraine,damaged,1,Armoured Fighting Vehicles
+MT-LBu,Russia,abandoned,3,Armoured Fighting Vehicles
+MTU-72 bridge layer,Russia,captured,1,Engineering Vehicles
+Novator,Ukraine,damaged,1,Infantry Mobility Vehicles
+Novator,Ukraine,captured,1,Infantry Mobility Vehicles
+Orlan-10 reconnaissance UAV,Russia,destroyed,1,Unmanned Aerial Vehicles
+P-14 'Tall King',Ukraine,damaged,1,Radars
+P-35/37 'Bar Lock',Ukraine,destroyed,1,Radars
+Pantsir-S1,Russia,abandoned,1,Surface-To-Air Missile Systems
+Pantsir-S1,Russia,destroyed,1,Surface-To-Air Missile Systems
+Pantsir-S1,Russia,captured,3,Surface-To-Air Missile Systems
+PMP floating bridge,Russia,destroyed,2,Engineering Vehicles
+PRV-13 'Odd Pair',Ukraine,destroyed,1,Radars
+PTS-3 tracked amphibious transport,Russia,abandoned,2,Engineering Vehicles
+R-149MA1 unified command and staff vehicle,Russia,abandoned,2,Armoured Fighting Vehicles
+R-149MA1 unified command and staff vehicle,Russia,destroyed,1,Armoured Fighting Vehicles
+R-149MA1 unified command and staff vehicle,Russia,damaged,1,Armoured Fighting Vehicles
+R-149MA1 unified command and staff vehicle,Russia,captured,3,Armoured Fighting Vehicles
+R-149MA3 command and staff vehicle,Russia,damaged,1,Armoured Fighting Vehicles
+R-149MA3 command and staff vehicle,Russia,captured,1,Armoured Fighting Vehicles
+R-166-0.5 signals vehicle,Russia,destroyed,1,Communications Stations
+R-166-0.5 signals vehicle,Russia,abandoned,1,Communications Stations
+R-330BMV Borisoglebsk-2B,Russia,damaged,1,Jammers and Deception Systems
+R-330BMV Borisoglebsk-2B,Russia,captured,1,Jammers and Deception Systems
+R-419L1 communications station,Russia,abandoned,1,Communications Stations
+REM-KL armoured recovery vehicle,Russia,captured,1,Engineering Vehicles
+RK-3 Corsar,Ukraine,captured,2,Anti-Tank Guided Missiles
+SNAR-10 battlefield surveillance radar,Ukraine,captured,1,Armoured Fighting Vehicles
+Su-25 attack aircraft,Ukraine,destroyed,3,Aircraft
+Su-25 close air support aircraft,Russia,destroyed,5,Aircraft
+Su-27 fighter aircraft,Ukraine,destroyed,3,Aircraft
+Su-30SM multirole aircraft,Russia,destroyed,2,Aircraft
+Su-34 strike aircraft,Russia,destroyed,4,Aircraft
+T-64BV,Ukraine,destroyed,20,Tanks
+T-64BV,Ukraine,captured,20,Tanks
+T-64BV,Ukraine,damaged,2,Tanks
+T-64BV,Ukraine,abandoned,6,Tanks
+T-64BV,Russia,damaged,1,Tanks
+T-64BV,Russia,captured,2,Tanks
+T-72A,Russia,destroyed,2,Tanks
+T-72A,Russia,captured,5,Tanks
+T-72AV,Russia,captured,1,Tanks
+T-72AV,Russia,destroyed,2,Tanks
+T-72B,Russia,captured,19,Tanks
+T-72B,Russia,destroyed,7,Tanks
+T-72B,Russia,damaged,3,Tanks
+T-72B,Russia,abandoned,5,Tanks
+T-72B Obr. 1989,Russia,abandoned,2,Tanks
+T-72B Obr. 1989,Russia,captured,2,Tanks
+T-72B Obr. 1989,Russia,destroyed,1,Tanks
+T-72B3,Russia,captured,3,Tanks
+T-72B3,Russia,abandoned,4,Tanks
+T-72B3,Russia,damaged,1,Tanks
+T-72B3,Russia,destroyed,5,Tanks
+T-72B3 Obr. 2016,Russia,abandoned,5,Tanks
+T-72B3 Obr. 2016,Russia,destroyed,23,Tanks
+T-72B3 Obr. 2016,Russia,captured,23,Tanks
+T-80BV,Russia,destroyed,1,Tanks
+T-80BV,Russia,abandoned,2,Tanks
+T-80BV,Ukraine,damaged,1,Tanks
+T-80BV,Russia,captured,3,Tanks
+T-80BV,Ukraine,captured,1,Tanks
+T-80BV,Ukraine,abandoned,1,Tanks
+T-80BVM,Russia,captured,9,Tanks
+T-80BVM,Russia,abandoned,1,Tanks
+T-80BVM,Russia,destroyed,4,Tanks
+T-80U,Russia,abandoned,14,Tanks
+T-80U,Russia,destroyed,5,Tanks
+T-80U,Russia,damaged,1,Tanks
+T-80U,Russia,captured,17,Tanks
+T-80UK,Russia,abandoned,1,Tanks
+T-90A,Russia,abandoned,4,Tanks
+T-90A,Russia,destroyed,6,Tanks
+T-90A,Russia,captured,5,Tanks
+TMM-3 bridge layer,Russia,abandoned,2,Engineering Vehicles
+TMM-3 bridge layer,Russia,captured,6,Engineering Vehicles
+TMM-3 bridge layer,Russia,damaged,1,Engineering Vehicles
+TMM-3 bridge layer,Russia,destroyed,1,Engineering Vehicles
+Tu-141 reconnaissance UAV,Ukraine,destroyed,2,Unmanned Aerial Vehicles
+TZM-T reloader vehicle (for TOS-1A),Russia,captured,2,Armoured Fighting Vehicles
+UAZ Patriot,Russia,abandoned,1,"Trucks, Vehicles, and Jeeps"
+UAZ-23632,Russia,captured,2,"Trucks, Vehicles, and Jeeps"
+UAZ-452,Ukraine,captured,1,"Trucks, Vehicles, and Jeeps"
+UAZ-469,Russia,destroyed,1,"Trucks, Vehicles, and Jeeps"
+UAZ-469,Russia,captured,1,"Trucks, Vehicles, and Jeeps"
+UAZ-469,Ukraine,captured,1,"Trucks, Vehicles, and Jeeps"
+Unknown AFV,Russia,destroyed,10,Armoured Fighting Vehicles
+Unknown AFV,Ukraine,destroyed,1,Armoured Fighting Vehicles
+Unknown AFV,Russia,captured,1,Armoured Fighting Vehicles
+Unknown AFV,Russia,abandoned,1,Armoured Fighting Vehicles
+Unknown BTR,Ukraine,abandoned,1,Armoured Fighting Vehicles
+Unknown BTR-D/BMD-2,Russia,destroyed,9,Armoured Fighting Vehicles
+Unknown communications station,Russia,destroyed,1,Communications Stations
+Unknown communications station based on the KamAZ 6x6,Russia,damaged,1,Communications Stations
+Unknown Mi-24/35 attack helicopter,Russia,destroyed,2,Helicopters
+Unknown Mi-24/35 attack helicopter,Russia,damaged,1,Helicopters
+Unknown tank,Russia,damaged,1,Tanks
+Unknown tank,Russia,abandoned,1,Tanks
+Unknown tank,Russia,destroyed,6,Tanks
+Unknown truck,Russia,destroyed,16,"Trucks, Vehicles, and Jeeps"
+Unknown truck,Ukraine,abandoned,1,"Trucks, Vehicles, and Jeeps"
+Unknown truck,Russia,damaged,3,"Trucks, Vehicles, and Jeeps"
+Unknown truck,Ukraine,destroyed,4,"Trucks, Vehicles, and Jeeps"
+Unknown truck,Russia,abandoned,1,"Trucks, Vehicles, and Jeeps"
+Unknown truck,Ukraine,damaged,1,"Trucks, Vehicles, and Jeeps"
+Unknown truck,Russia,captured,5,"Trucks, Vehicles, and Jeeps"
+Unknown truck,Ukraine,captured,1,"Trucks, Vehicles, and Jeeps"
+UR-77 'Meterorit' mine clearing vehicle,Russia,captured,3,Engineering Vehicles
+UR-77 'Meterorit' mine clearing vehicle,Russia,destroyed,1,Engineering Vehicles
+UR-77 'Meterorit' mine clearing vehicle,Russia,abandoned,1,Engineering Vehicles
+Ural Federal,Russia,destroyed,1,"Trucks, Vehicles, and Jeeps"
+Ural Federal,Russia,abandoned,3,"Trucks, Vehicles, and Jeeps"
+Ural-375D,Ukraine,captured,1,"Trucks, Vehicles, and Jeeps"
+Ural-4320,Russia,damaged,4,"Trucks, Vehicles, and Jeeps"
+Ural-4320,Russia,captured,45,"Trucks, Vehicles, and Jeeps"
+Ural-4320,Ukraine,destroyed,6,"Trucks, Vehicles, and Jeeps"
+Ural-4320,Russia,destroyed,46,"Trucks, Vehicles, and Jeeps"
+Ural-4320,Russia,abandoned,12,"Trucks, Vehicles, and Jeeps"
+Ural-4320,Ukraine,captured,1,"Trucks, Vehicles, and Jeeps"
+Ural-4320 Wrecker,Russia,damaged,1,Engineering Vehicles
+Ural-43206,Russia,destroyed,3,"Trucks, Vehicles, and Jeeps"
+Ural-43206,Russia,captured,9,"Trucks, Vehicles, and Jeeps"
+Ural-43206,Russia,abandoned,1,"Trucks, Vehicles, and Jeeps"
+Ural-542301 tank transporter,Russia,abandoned,1,"Trucks, Vehicles, and Jeeps"
+Varta,Ukraine,captured,9,Infantry Mobility Vehicles
+Varta,Ukraine,destroyed,1,Infantry Mobility Vehicles
+Vepr MRAP,Ukraine,captured,1,Armoured Fighting Vehicles
+Vityaz DT-30 articulated tracked carrier,Russia,destroyed,1,Armoured Fighting Vehicles
+Vityaz DT-30 articulated tracked carrier,Russia,abandoned,1,Armoured Fighting Vehicles
+ZALA Aero KUB-BLA loitering munition ,Russia,destroyed,1,Unmanned Aerial Vehicles
+ZiL-131,Ukraine,abandoned,2,"Trucks, Vehicles, and Jeeps"
+ZiL-131,Russia,destroyed,2,"Trucks, Vehicles, and Jeeps"
+ZiL-131,Ukraine,captured,10,"Trucks, Vehicles, and Jeeps"
+ZiL-131,Ukraine,destroyed,5,"Trucks, Vehicles, and Jeeps"
+ZiL-131,Russia,abandoned,2,"Trucks, Vehicles, and Jeeps"
+ZSU-23-4 'Shilka',Ukraine,captured,1,Self-Propelled Anti-Aircraft Guns
